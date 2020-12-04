@@ -1,3 +1,3 @@
-module innov_go_lib
+module lib
 
 go 1.15
